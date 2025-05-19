@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/ubi9/ubi:latest
 
-RUN dnf -y install xfsprogs cryptsetup
+RUN dnf -y install xfsprogs cryptsetup procps
 
 
 COPY sidecar.sh /sidecar.sh
