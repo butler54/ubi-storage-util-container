@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v0.2.0 (2025-05-19)
+
+### Feature
+
+* feat: add extra package (#2)
+
+Signed-off-by: Chris Butler &lt;chris.butler@redhat.com&gt; ([`f97b5da`](https://github.com/butler54/ubi-storage-util-container/commit/f97b5da1218b4dff39e812866b3ee3e164570ea1))
+
 ## v0.1.0 (2025-05-19)
 
 ### Feature
