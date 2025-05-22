@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v0.3.0 (2025-05-22)
+
+### Feature
+
+* feat: nfs utils (#3)
+
+Signed-off-by: Chris Butler &lt;chris.butler@redhat.com&gt; ([`c921a14`](https://github.com/butler54/ubi-storage-util-container/commit/c921a147c7f392099ee88404894e0edc8c6839e6))
+
 ## v0.2.0 (2025-05-19)
 
 ### Feature
