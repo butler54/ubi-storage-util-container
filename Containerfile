@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi:latest
+FROM registry.access.redhat.com/ubi10/ubi:latest
 
 RUN dnf -y install xfsprogs cryptsetup nfs-utils
 
